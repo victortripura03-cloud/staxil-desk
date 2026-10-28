@@ -1,0 +1,6 @@
+Copyright (c) 2026 victortripura03-cloud. All rights reserved.
+
+This portfolio demo is published for viewing and evaluation only. No license
+is granted to copy, redistribute, modify, sublicense, or sell this project,
+except as permitted by applicable law or the hosting platform's terms.
+For additional permission, contact the owner through GitHub.
